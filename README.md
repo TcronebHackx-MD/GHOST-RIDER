@@ -1,9 +1,9 @@
 <div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+	<h3>👧🏻GHOST-RIDER-MD WHATSAPP BOT👧🏻</h3>
+<a href="https://ibb.co/wBBKGBj"><img src="https://i.ibb.co/9ccqKcS/1733730955674.jpg" alt="1733730955674" border="0"></a>
 </div>
 <p align="center">
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/Dark-Town/GHOST-RIDER">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
 </p>
