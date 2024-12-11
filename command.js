@@ -1,5 +1,5 @@
-//Lara-MD Whatsapp User Bot
-//Created BY Sadeesha
+//GHOST-RIDER Whatsapp User Bot
+//Created BY Tcroneb
 
 var commands = [];
 
