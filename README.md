@@ -10,39 +10,39 @@
 
 <p align="center">
 
-  <a href="https://github.com/sadiyamin/Lara-MD">
+  <a href="https://github.com/Dark-Town/GHOST-RIDER">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsadiyamin%2FLara-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/sadiyamin/Lara-MD/fork">
-    <img src="https://img.shields.io/github/forks/sadiyamin/Lara-MD?label=Fork&style=social">
+  <a href="https://github.com/Dark-Town/GHOST-RIDER/fork">
+    <img src="https://img.shields.io/github/forks/Dark-Town/GHOST-RIDER?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/sadiyamin/Lara-MD/stargazers">
+  <a href="https://github.com/Dark-Town/GHOST-RIDER/stargazers">
     <img src="https://img.shields.io/github/stars/sadiyamin/Lara-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
-    <img src="https://img.shields.io/github/repo-size/sadiyamin/Lara-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="httsp://github.com/Dark-Town/GHOST-RIDER">
+    <img src="https://img.shields.io/github/repo-size/Dark-Town/GHOST-RIDER?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/Dark-Town/GHOST-RIDERD">
     <img src="https://img.shields.io/github/license/sadiyamin/Lara-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/Dark-Town/GHOST-RIDER">
     <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="httsp://github.com/Dark-Town/GHOST-RIDE">
     <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94779062397">
+  <a href="https://wa.me/263716254192">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20MD%20BOT-purple&style=plastic">
 
   </a>
@@ -53,7 +53,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+GHOST-RIDER...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;WORLD+OF+TECH+PROJECT..."
             alt="Typing">
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 <hr>
 
-			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+		
        
 <h3>🌸 How To Deploy </h3>
 
@@ -237,33 +237,26 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
+| TCRONEB HACKX 👤              | CYBER SPACE 👤              | CRUZ THE TRADER 👤            |
 |---------------------|---------------------|---------------------|
 [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
-| DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
+| DEVELOPER & FOUNDER | GRAPHICS AND JAVASCRIPT  | BUG TESTER |
 </div>
 <hr>
 
 <hr>
 
 <div align="center">
-    
-| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
-|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
-
-| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
-|---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/sadiyamin/Alexa.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
+              
 
 
 </div>
 
-<h5>Thank You For Using Lara-MD 💗</h5>
+<h5>Thank You For Using GHOST RIDER - MD 💗</h5>
 
 <hr>
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up GHOST -RIDER  Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
