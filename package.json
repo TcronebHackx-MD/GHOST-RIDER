@@ -1,7 +1,7 @@
 {
   "name": "ghost",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "GHOST-RIDE4 WhatsApp bot created TCRONEB With using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lara",
