@@ -37,28 +37,25 @@
 
   </a>
   <a href="httsp://github.com/Dark-Town/GHOST-RIDE">
-    <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=CRONE%20min&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://wa.me/263716254192">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20MD%20BOT-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-CRONE%20MD%20BOT-purple&style=plastic">
 
   </a>
 </p>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+ZW+CODER+GHOST+RIDER+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+GHOST-RIDER...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;WORLD+OF+TECH+PROJECT..."
             alt="Typing">
 
-<div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
-</div>
 
 <hr>
 
@@ -188,7 +185,7 @@ jobs:
 ```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+TCRONEB+HACKX_Min" alt="">
 <hr>
 
 **🌸 FREE DEPLOY WORKFLOWS**
@@ -235,7 +232,7 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 LARA-MD Developer Team 👤</h3>
+<h3>🌸 GHOST RIDER DEVELOPER TEAM 👤</h3>
 
 | TCRONEB HACKX 👤              | CYBER SPACE 👤              | CRUZ THE TRADER 👤            |
 |---------------------|---------------------|---------------------|
