@@ -66,7 +66,7 @@
 <hr>	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<h5>🌸(SESSION_ID )</h5> 
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
@@ -74,7 +74,7 @@
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://dry-adda-gangster-fa80e06d.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 <br>
 <h3>SEVER ➌</h3>
 <div align="center">
