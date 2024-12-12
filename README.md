@@ -182,7 +182,7 @@ jobs:
 ```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+TCRONEB+HACKX_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa09&center=true&vCenter=true&multiline=false&lines=Created+By+TCRONEB+HACKX_Min" alt="">
 <hr>
 
 **🌸 FREE DEPLOY WORKFLOWS**
@@ -252,5 +252,5 @@ jobs:
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up GHOST -RIDER  Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Hie GHOST RIDER USER; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, GHOST RIDER executives do not take responsibility. By setting up GHOST -RIDER  Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
