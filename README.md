@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👿 GHOST_RIDER-MD WHATSAPP BOT </h3>
+	<h3>👿 GHOST_RIDER-MD WHATSAPP BOT👿</h3>
 <a href="https://ibb.co/wBBKGBj"><img src="https://i.ibb.co/9ccqKcS/1733730955674.jpg" alt="1733730955674" border="0"></a>
 </div>
 <p align="center">
@@ -58,13 +58,13 @@
 
 		
        
-<h3> How To Deploy </h3>
+<h3>👀 How To Deploy </h3>
 
-<h5>🌸 First tap to Fork button and create new fork</h5>
+<h5>👀 First tap to Fork button and create new fork</h5>
 
-<h4>🌸 Following 👇</h4>
+<h4>👀 Following 👇</h4>
 <hr>	
-<h3>🌸 Get Your SESSION ID 👇</h3> 
+<h3>👀 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
 <h5>🤞(SESSION_ID )</h5> 
 <br>
@@ -179,7 +179,7 @@ jobs:
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa09&center=true&vCenter=true&multiline=false&lines=Created+By+TCRONEB+HACKX_Min" alt="">
 <hr>
 
-**🌸 FREE DEPLOY WORKFLOWS**
+**👀 FREE DEPLOY WORKFLOWS**
 ```
 name: Node.js CI
 
@@ -217,13 +217,13 @@ jobs:
 ```
 
 
-<h5>🌸 TOTAL WEB VIEWS</h5>
+<h5>👀 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 <hr>
 
 <div align="center">
-<h3>🌸 GHOST RIDER DEVELOPER TEAM 👤</h3>
+<h3>👀 GHOST RIDER DEVELOPER TEAM 👤</h3>
 
 | TCRONEB HACKX 👤              | CYBER SPACE 👤              | CRUZ THE TRADER 👤            |
 |---------------------|---------------------|---------------------|
