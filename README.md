@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻GHOST_RIDER-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👿 GHOST_RIDER-MD WHATSAPP BOT </h3>
 <a href="https://ibb.co/wBBKGBj"><img src="https://i.ibb.co/9ccqKcS/1733730955674.jpg" alt="1733730955674" border="0"></a>
 </div>
 <p align="center">
@@ -58,7 +58,7 @@
 
 		
        
-<h3>🌸 How To Deploy </h3>
+<h3> How To Deploy </h3>
 
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
