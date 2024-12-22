@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "stop": "pm2 stop ghost",
+    "restart": "pm2 restart ghost"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
