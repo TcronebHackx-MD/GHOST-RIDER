@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻GHOST-RIDER-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👿 GHOST_RIDER-MD WHATSAPP BOT 👿</h3>
 <a href="https://ibb.co/wBBKGBj"><img src="https://i.ibb.co/9ccqKcS/1733730955674.jpg" alt="1733730955674" border="0"></a>
 </div>
 <p align="center">
@@ -58,23 +58,23 @@
 
 		
        
-<h3>🌸 How To Deploy </h3>
+<h3>👀 How To Deploy </h3>
 
-<h5>🌸 First tap to Fork button and create new fork</h5>
+<h5>👀 First tap to Fork button and create new fork</h5>
 
-<h4>🌸 Following 👇</h4>
+<h4>👀 Following 👇</h4>
 <hr>	
-<h3>🌸 Get Your SESSION ID 👇</h3> 
+<h3>👀 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID )</h5> 
+<h5>🤞(SESSION_ID )</h5> 
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://ghost-pair-ihmy.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://ghost-pair-ihmy.onrender.com/">👀 SESSION_ID 🎁 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://dry-adda-gangster-fa80e06d.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://dry-adda-gangster-fa80e06d.koyeb.app/"> 👀SESSION_ID 🎁 ❷</a></tr></button>
 <br>
 <h3>SEVER ➌</h3>
 <div align="center">
@@ -82,21 +82,15 @@
 </div>
 <br>
 
-*🌸 Now get your inbox and copy sessino id*
+*😎 Now get your inbox and copy sessino id*
 
-*🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
+*🤳 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
-<h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
-<hr>
-<h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
-<hr>
 
-***CLICK THE BUTTON BELOW TO DEPLOY🌸***
+***CLICK THE BUTTON BELOW TO DEPLOY🎱***
 
  <details close>
-<summary>🌸 DEPLOY ONLY PAY 🌸</summary>
+<summary> 💵DEPLOY ONLY PAY 👀</summary>
 	 
 --------	 
 1.  #### DEPLOY IN HEROKU 
@@ -138,12 +132,12 @@
 --------
 </details>
 <details close>
-<summary>🌸 DEPLOY IN FREE 🌸</summary>
+<summary>🧐 DEPLOY IN FREE 👊</summary>
 
-<h5>🌸 Deploy Free Koyeb👇</h5>
+<h5>👨 Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
-<h5>🌸 Deploy Free Workflows 👇</h5>
+<h5>🕵️‍♂️ Deploy Free Workflows 👇</h5>
 
 ```
 name: Node.js CI
@@ -185,7 +179,7 @@ jobs:
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa09&center=true&vCenter=true&multiline=false&lines=Created+By+TCRONEB+HACKX_Min" alt="">
 <hr>
 
-**🌸 FREE DEPLOY WORKFLOWS**
+**👀 FREE DEPLOY WORKFLOWS**
 ```
 name: Node.js CI
 
@@ -223,17 +217,17 @@ jobs:
 ```
 
 
-<h5>🌸 TOTAL WEB VIEWS</h5>
+<h5>👀 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
 <hr>
 
 <div align="center">
-<h3>🌸 GHOST RIDER DEVELOPER TEAM 👤</h3>
+<h3>👀 GHOST RIDER DEVELOPER TEAM 👤</h3>
 
 | TCRONEB HACKX 👤              | CYBER SPACE 👤              | CRUZ THE TRADER 👤            |
 |---------------------|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+[![Owner](https://i.ibb.co/d0bzS4q/download-1.jpg)](https://github.com/Dark-Town/Dark-Town) | [![Vihanga](https://i.ibb.co/TLLQdL6/download.jpg)](https://github.com/Cyber-Space/Cyber-space) | [![Sadeepa](https://i.ibb.co/v4ZjktG/20241201141703.jpg)](https://github.com/cybercruz222/CRUZ_THE_TRADER) |
 | DEVELOPER & FOUNDER | GRAPHICS AND JAVASCRIPT  | BUG TESTER |
 </div>
 <hr>
